@@ -95,6 +95,13 @@ a:hover {
     margin: 0 auto;
 }
 
+#algoma-logo {
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
 #job-description ul {
     padding-left: 40px; /* Adjust this value as per your requirement */
 }
