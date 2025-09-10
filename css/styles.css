@@ -20,7 +20,7 @@ header h1, main h2 {
 
 ul {
     list-style-type: disc;
-    padding: 0;
+    padding: 4;
 }
 
 li {
@@ -37,6 +37,20 @@ a:hover {
 }
 
 #norgen-logo {
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+#abstract-project-img {
+    max-height: 400px;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+#abstract-goal-img {
+    max-height: 400px;
     max-width: 400px;
     display: block;
     margin: 0 auto;
